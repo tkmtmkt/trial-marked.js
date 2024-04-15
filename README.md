@@ -1,4 +1,4 @@
-study-marked.js
+trial-marked.js
 ===============
 
 marked.js, mermaid.js, hilight.js
